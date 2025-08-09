@@ -2,7 +2,7 @@
   "name": "layout-preset",
   "displayName": "Layout Preset",
   "description": "Store and recall editor/panel/sidebar layouts as named presets.",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -15,8 +15,7 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [
-  ],
+  "activationEvents": [],
   "main": "./out/extension.js",
   "scripts": {
     "vscode:prepublish": "npm run compile",
