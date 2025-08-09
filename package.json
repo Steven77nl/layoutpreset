@@ -2,7 +2,7 @@
   "name": "layout-preset",
   "displayName": "Layout Preset",
   "description": "Store and recall editor/panel/sidebar layouts as named presets.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "icon": "media/marketplace-icon.png",
   "engines": {
     "vscode": "^1.60.0"
